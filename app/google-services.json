@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "332701955782",
+    "project_id": "schedule-builder-446d9",
+    "storage_bucket": "schedule-builder-446d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332701955782:android:bd48b3fd18bb37e7fc89c7",
+        "android_client_info": {
+          "package_name": "com.example.schedulebuilder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332701955782-57fodvgtujshumds282ldofontq6vph2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVZbjA7W5rvOFwKdyvCjmFz4UrB-rDHh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332701955782-57fodvgtujshumds282ldofontq6vph2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
